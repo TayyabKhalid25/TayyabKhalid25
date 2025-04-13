@@ -23,11 +23,11 @@
 ![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TayyabKhalid25&theme=gotham&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TayyabKhalid25&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabKhalid25&theme=gotham&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=TayyabKhalid25&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=review,prs_merged&hide=stars,issues)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TayyabKhalid25&theme=cobalt&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabKhalid25&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&hide=cmake,makefile)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TayyabKhalid25&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
 ---
