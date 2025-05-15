@@ -65,7 +65,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=TayyabKhalid25&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=review,prs_merged&hide=stars,issues&cache_seconds=1)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TayyabKhalid25&theme=cobalt&hide_border=true&cache_seconds=1)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabKhalid25&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&hide=cmake,makefile&cache_seconds=1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabKhalid25&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&hide=cmake,makefile,css&cache_seconds=1)
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TayyabKhalid25&theme=nord&no-frame=true&no-bg=true&margin-w=4)
