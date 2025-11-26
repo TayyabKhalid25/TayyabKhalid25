@@ -22,6 +22,7 @@
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Assembly](https://img.shields.io/badge/Assembly-%23007AAC.svg?style=flat&logo=c&logoColor=white)
@@ -36,16 +37,22 @@
 ## 🔧 Backend Development & Tools
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat&logo=insomnia&logoColor=5849BE)
 
 ## 🛢️ Databases & Querying
-![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-%23007386.svg?style=flat&logo=libreoffice&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-%23007386.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 
 ## 💻 IDEs & Editors
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=devbox&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=notepadplusplus&logoColor=black)
 
@@ -54,8 +61,10 @@
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
 
 ## ☁️ Cloud & Platforms
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-121013?style=flat&logo=github&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-0078D4?style=flat&logo=linux&logoColor=white)
 
 ## 📁 Productivity Tools
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-%2318A303.svg?style=flat&logo=libreoffice&logoColor=white)
