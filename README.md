@@ -15,6 +15,9 @@
 ## 🌐 Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=koenigsegg&logoColor=white)](www.linkedin.com/in/tayyab-khalid-1407b8293)  
 
+# 📜 Certifications
+[![Meta Backend Developer](https://img.shields.io/badge/Meta-Backend_Developer_Professional_Certificate-%230467DF?style=flat&logo=meta&logoColor=white)](https://www.credly.com/badges/9302b669-a913-42f7-869f-47a256c30193)
+
 ---
 
 # 💻 Tech Stack:
