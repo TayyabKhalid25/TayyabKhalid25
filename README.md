@@ -4,8 +4,8 @@
 🧠 I love solving problems, learning new technologies, and building things that people enjoy using.  
 🎮 I'm also deeply into **single-player gaming**, especially titles that offer immersive storytelling and mechanics — they fuel my passion for creating meaningful gameplay experiences.
 
-### 🎮 Games I Played
-**Halo**, **Crysis**, **Hollow Knight**, **Elden Ring**, **Rainbow Six Siege**, **Need for Speed Rivals**, **DOOM (2016)**
+### 🎮 Games I Like
+**Halo**, **Crysis**, **Hollow Knight**, **Elden Ring**, **Need for Speed Rivals**, **DOOM (2016 onwards)**
 
 ## 🚀 Current Goals
 - Mastering modern game engines and frameworks  
