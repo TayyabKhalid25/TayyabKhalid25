@@ -4,7 +4,7 @@
 🧠 I love solving problems, learning new technologies, and building things that people enjoy using.  
 🎮 I'm also deeply into **single-player gaming**, especially titles that offer immersive storytelling and mechanics — they fuel my passion for creating meaningful gameplay experiences.
 
-### 🎮 Games I Like
+### 🎮 Some Games I Like
 **Halo**, **Crysis**, **Hollow Knight**, **Elden Ring**, **Need for Speed Rivals**, **DOOM (2016 onwards)**
 
 ## 🚀 Current Goals
@@ -33,6 +33,7 @@
 ## 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
 
 ## 🔧 Backend Development & Tools
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
@@ -47,7 +48,9 @@
 ## 🛢️ Databases & Querying
 ![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-%23007386.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon-90E59A?style=flat&logo=neon&logoColor=black)
 
 ## 💻 IDEs & Editors
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
@@ -61,8 +64,11 @@
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat&logo=unity&logoColor=white)
 
 ## ☁️ Cloud & Platforms
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Vercel Blob](https://img.shields.io/badge/Vercel%20Blob-000000?style=flat&logo=vercel&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-121013?style=flat&logo=github&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0078D4?style=flat&logo=linux&logoColor=white)
 
@@ -71,10 +77,11 @@
 ![Google Docs](https://img.shields.io/badge/Google%20Docs-4285F4?style=flat&logo=google-docs&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)
 ![Google Meet](https://img.shields.io/badge/Google%20Meet-00897B?style=flat&logo=google-meet&logoColor=white)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TayyabKhalid25&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&show=review,prs_merged&hide=stars,issues&cache_seconds=1)<br/>
+![](https://github-readme-stats.vercel.app/api?username=TayyabKhalid25&theme=cobalt&hide_border=true&count_private=true&show_icons=true&show=review,prs_merged&hide=stars,issues&cache_seconds=1)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TayyabKhalid25&theme=cobalt&hide_border=true&cache_seconds=1)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabKhalid25&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&hide=cmake,makefile,css&cache_seconds=1)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TayyabKhalid25&theme=cobalt&hide_border=true&count_private=true&layout=donut-vertical&hide=cmake,makefile,css&cache_seconds=1)
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TayyabKhalid25&theme=nord&no-frame=true&no-bg=true&margin-w=4)
